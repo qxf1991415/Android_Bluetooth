@@ -8,20 +8,6 @@
     tools:context="com.qxf.android_bluetooth.MainActivity">
 
     <Button
-        android:id="@+id/btn_blue"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="50dp"
-        android:text="蓝牙操作"/>
-
-    <Button
-        android:id="@+id/btn_pair"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="50dp"
-        android:text="发现配对设备"/>
-
-    <Button
         android:id="@+id/btn_scan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
